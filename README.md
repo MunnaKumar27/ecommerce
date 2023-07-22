@@ -45,7 +45,7 @@ We welcome contributions to further enhance the Online Shopping Website project.
 
 | Nikhil Borse                                                                          | Suraj Chaudhary                                                                   |
 | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/00123nikhil) | [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/Cksuraj) |
+
 
 ## 🌟 ScreenShorts
 
@@ -60,10 +60,8 @@ We welcome contributions to further enhance the Online Shopping Website project.
 
 If you have any questions, suggestions, or feedback regarding the Online Shopping Website repository, feel free to reach out to us at
 
-- [Nikhil Borse](nikhilrb13@gmail.com)
+- [Munna kumar](mkumar270278@gmail.com)
+- [Altaf](altafraza1786@gmail.com)
+- [Manu](manukumar.850.a@gmail.com)
 
-- [Suraj Chaudhary](sjchaudhary00@gmail.com)
 
-## 🌟 License
-
-This project is licensed under the [MIT LICENSE](LICENSE) .
